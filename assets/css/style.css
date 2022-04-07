@@ -84,3 +84,10 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
+.service {
+    display: inline-block;
+    text-align: center;
+}
+.location {
+    list-style-type: none;
+}
